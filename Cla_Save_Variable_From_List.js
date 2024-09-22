@@ -2,6 +2,7 @@
  * @target MZ
  * @plugindesc 리스트에서 무작위 상수를 선택해 변수에 저장하는 플러그인입니다.
  * @author 프랑도르
+ * @url https://github.com/Clouben/MZ_Plugin/blob/main/Cla_Save_Variable_From_List.js
  *
  * @help 이 플러그인은 플러그인 명령을 통해 작성한 리스트에서 무작위로 리스트 내에 있는 상수를 하나 선택해 지정한 변수에 저장하는 플러그인입니다.
  * 
